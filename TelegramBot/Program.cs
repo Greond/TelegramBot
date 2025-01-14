@@ -16,7 +16,7 @@ namespace TelegramBot
 {
     internal class Program
     {
-        private static string BotToekn { get; set; } = "7291651770:AAEv8OYCghgNMyhY34VPcGQ-RJLPPe9pr30";
+        private static string BotToekn { get; set; } = "";
         // Это клиент для работы с Telegram Bot API, который позволяет отправлять сообщения, управлять ботом, подписываться на обновления и многое другое.
         private static ITelegramBotClient _botClient;
 
